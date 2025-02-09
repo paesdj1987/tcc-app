@@ -1,8 +1,4 @@
 # Ignorar a pasta myenv (ambiente virtual)
 myenv/
 
-# Ignorar o banco de dados SQLite
-suap23.db
 
-# Ignorar o arquivo Excel gerado
-mescla_final.xlsx
