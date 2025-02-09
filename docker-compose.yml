@@ -1,0 +1,8 @@
+services:
+  app:
+    image: 'tcc-app:latest'
+    build:
+      context: .
+    container_name: tcc-app
+    ports:
+      - 8050:8050
